@@ -1,6 +1,6 @@
-git add . > adiciona uma pasta nova ou varios arquivos novos de uma so vez
+git add . > adiciona uma pasta nova ou varios arquivos novos de uma so vez / atualiza um arquivo
 
-git commit -m "comentario no commit"
+git commit -m "comentario no commit" / usar para atualização 
 
 git status 
 
@@ -10,8 +10,15 @@ git remote add origin https://github.com..
 
 git push > envia os commits pra nuvem
 
-git init
+git init > inicia um arquivo .git
 
------
+git config --global user.email "seuemail@email.com"
 
-git:https://github.com
+git config --global user.name "username"
+
+git push > update
+
+git reflog > ver historico
+
+pegar o id visto no reflog
+git reset --hard + id > volta a versao desejada
