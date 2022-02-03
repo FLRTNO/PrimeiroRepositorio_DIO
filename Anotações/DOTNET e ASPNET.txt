@@ -1,0 +1,24 @@
+- .NET > Plataforma de desenvolvimento com diversas ferramentas que permitem o desenvolvimento de varios tipos de aplicações como:
+*Web
+*Mobile
+*Desktop
+*Microserviços
+*Nuvem
+
+.NET Standard - Especificação das APIs
+
+Acesso de dados > 
+ORM Entity Framework Core - 
+LINQ - Consulta integrada à linguagem
+
+Ambientes de Integração
+*GitHub Actions
+*Azure Devops
+*Cake/Fake
+
+Gerenciamento Automatico de Memoria
+
+- ASP.NET & ASP.NET Core > Framework para aplicações web
+*REST APIs
+*Microserviços
+ 
