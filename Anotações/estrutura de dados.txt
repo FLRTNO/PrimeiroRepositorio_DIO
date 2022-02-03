@@ -1,0 +1,40 @@
+PRINCIPAIS ESTRUTURAS DE DADOS
+
+VETORES E MATRIZES: ARRAYS
+SÃO ESTRUTURAS QUE AUXILIAM QUANDO
+HÁ MUITAS VARIAVEIS DO MESMO TIPO EM UM ALGORITMO
+VETOR É UMA VARIAVEL UNIDIMENSIONAL (possui apenas uma linha ou coluna) QUE ARMAZENA VARIAS VARIAVEIS DO MESMO TIPO
+
+MATRIZ: SÃO ESTRUTURAS MULTIDIMENSIONAIS (PODEM TER UMA LINHA E UMA COLUNA EX: -----
+                       -
+                       - 
+                       -           
+
+REGISTRO:  UMA ESTRUTURA QUE FORNECE UM FORMATO ESPECIALIZADO PARA ARMAZENAR INFORMAÇOES
+ENQUANTO OS ARRAYS PERMITE ARMAZENAR VARIOS DADOS EM UM UNICO TIPO O RECURSO REGISTRO NOS PERMITE ARMAZENAR MAIS DE UM TIPO DE DADO
+
+LISTAS : ARMAZENA DADOS DE UM DETERMINADO TIPO EM UMA ORDEM ESPECIFICA, DIFERENTE DOS ARRAYS QUE POSSUEM UM TAMANHO FIXO AS LISTAS POSSUEM O TAMANHO AJUSTADO 
+
+PILHAS ou STACK: 
+é uma forma otimizada para organizar dados na memória alocados em sequência
+
+1.LIFO (LAST IN FIRST OUT)
+2.UEPS (Ultimo que Entra Primeiro que Sai) : apresenta o criterio que o primeiro elemento a ser retirado é o ultimo que tiver sido inserido
+3. FIFO ou PEPS (FIRST IN FIRST OUT) : O primeiro elemento a ser retirado é o primeiro que tiver sido inserido, de baixo para cima
+
+FILAS: admite a remoçao de elementos e inserção de novos sujeita a seguinte regra de operação: o elemento removido é o mais antigo ou seja o primeiro da fila
+
+ARVORES:
+é uma estrutura de dados que organiza seus elementos de forma hierarquica, onde existe um elemento que fica no topo da arvore chamado de raiz e os elementos subordinados a ele, chamados de nós ou folhas.
+facilita a busca
+
+HASH:Tabela de espalhamento ou dispersao:
+Semelhante aos arrays mas tem a função hashing que espalha os elementos 
+permite a associaçao de valores a chaves
+Valores é a posiçao ou indice onde o elemento se encontra
+e a Chave é parte da informação que compoe o elemento a ser manipulado
+Espalhar facilita a busca pois a partir da chave podemos achar o array, cada valor recebe uma chave.
+
+GRAFOS: SAO ESTRUTURAS QUE PERMITEM PROGRAMAR A RELAÇÃO ENTRE OBJETOS
+
+

@@ -1,0 +1,17 @@
+git add . > adiciona uma pasta nova ou varios arquivos novos de uma so vez
+
+git commit -m "comentario no commit"
+
+git status 
+
+git add "codigo.nn"
+
+git remote add origin https://github.com..
+
+git push > envia os commits pra nuvem
+
+git init
+
+-----
+
+git:https://github.com
