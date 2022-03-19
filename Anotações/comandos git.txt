@@ -22,3 +22,7 @@ git reflog > ver historico
 
 pegar o id visto no reflog
 git reset --hard + id > volta a versao desejada
+
+git config --global core.safecrlf false -> tira o aviso de LF CRLF
+
+git config --get-all --show-origin core.autocrlf -> mostra onde os valores de configuração serão encontrados
